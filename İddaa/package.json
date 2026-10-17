@@ -1,0 +1,7 @@
+{
+  "name": "iddaa-live-signals",
+  "version": "1.0.0",
+  "description": "Canlı futbol sinyal sistemi",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node test.js" }
+}
